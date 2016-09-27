@@ -79,7 +79,7 @@ def get_lat_lon(exif_data):
     return lat, lon
 
 
-def get_for_exif(src):
+def getForExif(src):
 	'''
 	walk the src 
 	'''
